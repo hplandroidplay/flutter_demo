@@ -1,0 +1,5 @@
+
+#.travis.yml
+language: dart
+script:
+  - dart dart_sample.dart
